@@ -1,0 +1,19 @@
+{
+  "salaryData": {
+    "SALARY_OVERVIEW_PATHNAME": "/elektriker-gehalt-%C3%BCbersicht",
+    "SALARY_CHECK_PATHNAME": "/gehaltscheck",
+    "SALARY_EXPERIENCE_URL": "/gehaltscheck?step=experience",
+    "SALARY_TRAVEL_URL": "/gehaltscheck?step=willingness-to-travel",
+    "SALARY_STATE_URL": "/gehaltscheck?step=state",
+    "DEGREE": "Abgeschlossene Berufsausbildung",
+    "EXPERIENCE": "10-20 Jahre",
+    "TRAVEL": "Wenig",
+    "STATE": "Berlin"
+  },
+  "results": {
+    "AVG_GROSS_SALARY": "Ø 3.175 € / Monat",
+    "AFFECT_STATE": "-78 €brutto/ Monat",
+    "AFFECT_EXPERIENCE": "+151 €brutto/ Monat",
+    "AFFECT_MONTH": "-132 €netto/ Monat"
+  }
+}
